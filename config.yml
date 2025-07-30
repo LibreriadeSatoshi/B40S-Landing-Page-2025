@@ -1,5 +1,7 @@
---https://github.com/github/docs/blob/main/.github/ISSUE_TEMPLATE/config.yml
+# Disable blank issues
 blank_issues_enabled: false
+
+## Custom contact links shown when creating a new issue
 contact_links:
   - name: GitHub Support
     url: https://support.github.com/contact
